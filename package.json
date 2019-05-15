@@ -1,0 +1,13 @@
+{
+  "name": "tree-sitter-iloc",
+  "version": "1.0.0",
+  "description": "ILOC Tree Sitter parser",
+  "main": "grammar.js",
+  "author": "Wouter van den Brink <git@woutervdb.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "nan": "^2.13.2",
+    "tree-sitter-cli": "^0.14.7"
+  }
+}
